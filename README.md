@@ -49,4 +49,4 @@ The system is organized into the following directory structure:
 
 ## Reference
 For detailed explanations of the hardware architecture, synthesis trade-offs, and area/power reports, consult the provided PDF:  
-[DDLS-part3.pdf](DOC/AES-Digital-Design-Synthesis-pdf.pdf)
+[AES-Digital-Design-Synthesis-pdf.pdf](DOC/AES-Digital-Design-Synthesis-pdf.pdf)
